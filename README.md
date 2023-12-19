@@ -1,0 +1,1 @@
+Final project for COSC 1436. A simple text based version of tic-tac-toe written in Python.
